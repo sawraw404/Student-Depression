@@ -1,0 +1,17 @@
+
+"Our project addresses student mental health by predicting depression using 
+machine learning.
+
+We're working with a dataset of 100,000 students containing 10 features 
+including academic pressure, sleep patterns, and financial stress.
+
+Our exploratory analysis reveals that academic and lifestyle factors is the strongest 
+indicator with a correlation of 0.00.
+
+By comparing multiple algorithms including Random Forest and SVM, we expect to 
+achieve over 75% accuracy in identifying at-risk students.
+
+This could help universities implement early intervention programs and allocate 
+counseling resources more effectively, potentially improving outcomes for the 
+90% of students experiencing depression."
+    
